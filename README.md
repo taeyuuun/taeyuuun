@@ -1,4 +1,4 @@
-<div  style="display: felx justify-content: center">
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
   <a href="https://github.com/devxb/gitanimals>
   <img
@@ -8,4 +8,3 @@
   />
   </a>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
-</div>
